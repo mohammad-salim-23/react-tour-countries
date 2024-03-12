@@ -1,0 +1,16 @@
+.Country{
+    border:2px solid cyan;
+    padding: 14px;
+    margin:15px;
+    border-radius:15px;
+}
+.visited{
+    background-color: black;
+    color:white;
+}
+.non-visited{
+    background-color: cyan;
+}
+.flag-container img{
+    width: 100px;
+}
